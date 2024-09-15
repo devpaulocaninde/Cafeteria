@@ -1,2 +1,2 @@
 # Cafeteria
- Site de Cafeteria HTML e CSS
+ Site de Cafeteria com HTML5 e CSS3
